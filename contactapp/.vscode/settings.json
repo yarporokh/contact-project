@@ -1,0 +1,25 @@
+{
+	"editor.linkedEditing": true,
+	"html.autoClosingTags": true,
+	"javascript.autoClosingTags": true,
+	"typescript.autoClosingTags": true,
+	"editor.quickSuggestionsDelay": 0,
+
+	"prettier.semi": false,
+	"editor.formatOnSave": true,
+	"prettier.useTabs": true,
+	"prettier.singleQuote": true,
+	"prettier.jsxSingleQuote": true,
+	"editor.codeActionsOnSave": {
+		"source.organizeImports": "explicit"
+	},
+	"editor.inlineSuggest.enabled": true,
+
+	//JS * TS
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+
+
+	"cSpell.language": "en",
+	"cSpell.enabled": true,
+}
